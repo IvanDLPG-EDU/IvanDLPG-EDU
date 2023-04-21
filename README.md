@@ -1,16 +1,18 @@
-### Hi there 👋
+# Iván De La Poza García - Cuenta Educativa
 
-<!--
-**IvanDLPG-EDU/IvanDLPG-EDU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Descripción
+¡Bienvenido! En mi página de GitHub encontrarás información sobre mis proyectos, habilidades y experiencia en programación.
+Esta cuenta está destinada a proyectos escolares. Puedes ver mi cuenta usual [aquí](https://github.com/IvanDLPG)
 
-Here are some ideas to get you started:
+## Mis habilidades
+- Lenguajes de programación: JavaScript, Python
+- Frameworks y tecnologías: Node.js, Django, React
+- Herramientas: Git, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mis proyectos
+- [RolGM](https://github.com/IvanDLPG-EDU/rolgm-project): Una plataforma web para juegos de rol que ofrece múltiples herramientas y soporte de una manera sencilla y práctica para usuarios novatos. Este proyecto está construido con Django y React + Vite.
+
+## Contacto
+- LinkedIn: [Iván De La Poza García](https://www.linkedin.com/in/iv%C3%A1n-de-la-poza-garc%C3%ADa-a16050207/)
+
+¡Gracias por visitar mi página de GitHub! Espero que encuentres algo interesante aquí.
