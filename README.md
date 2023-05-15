@@ -7,7 +7,11 @@ Esta cuenta está destinada a proyectos escolares. Puedes ver mi cuenta usual [a
 ## Mis habilidades
 - Lenguajes de programación: JavaScript, Python
 - Frameworks y tecnologías: Node.js, Django, React
-- Herramientas: Git, VS Code
+
+## Herramientas
+- Control de versiones: Git
+- IDEs: VS Code
+- Virtualización: Docker, VirtualBox, LXC
 
 ## Mis proyectos
 - [RolGM](https://github.com/IvanDLPG-EDU/rolgm-project): Una plataforma web para juegos de rol que ofrece múltiples herramientas y soporte de una manera sencilla y práctica para usuarios novatos. Este proyecto está construido con Django y React + Vite.
