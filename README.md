@@ -2,7 +2,7 @@
 
 ## Descripción
 ¡Bienvenido! En mi página de GitHub encontrarás información sobre mis proyectos, habilidades y experiencia en programación.
-Esta cuenta está destinada a proyectos escolares. Puedes ver mi cuenta usual [aquí](https://github.com/IvanDLPG)
+Esta cuenta está destinada a proyectos escolares. Puedes ver mi cuenta personal [aquí](https://github.com/IvanDLPG)
 
 ## Mis habilidades
 - Lenguajes de programación: JavaScript, Python
@@ -17,6 +17,6 @@ Esta cuenta está destinada a proyectos escolares. Puedes ver mi cuenta usual [a
 - [RolGM](https://github.com/IvanDLPG-EDU/rolgm-project): Una plataforma web para juegos de rol que ofrece múltiples herramientas y soporte de una manera sencilla y práctica para usuarios novatos. Este proyecto está construido con Django y React + Vite.
 
 ## Contacto
-- LinkedIn: [Iván De La Poza García](https://www.linkedin.com/in/iv%C3%A1n-de-la-poza-garc%C3%ADa-a16050207/)
+- LinkedIn: [Iván De La Poza García](https://www.linkedin.com/in/ivan-dlpg/)
 
 ¡Gracias por visitar mi página de GitHub! Espero que encuentres algo interesante aquí.
